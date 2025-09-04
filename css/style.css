@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 100vw;
+    height: 100vh;
+    background-color: #e66767;
+}
+
+#hd{
+    width: 100%;
+    height: 10%;
+    background-color: #6767e6;
+}
+
+#main{
+    width: 100%;
+    height: 80%;
+    background-color: #e6e667;
+}
+
+#ft{
+    width: 100%;
+    height: 10%;
+    background-color: #67e667;
+}
